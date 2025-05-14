@@ -1,0 +1,182 @@
+﻿{
+    "id": "opcion_menu_6",
+    "breakfast": [
+        {
+            "menuName": "Quesadillas de Panela/Lentejas",
+            "dishes": [
+                {
+                    "name": "Quesadillas de Panela/Lentejas",
+                    "ingredients": [
+                        {
+                            "name": "Tortillas de maíz",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 2,
+                            "alternativeUnit": "piezas"
+                        },
+                        {
+                            "name": "Queso Panela",
+                            "metricQuantity": 40,
+                            "metricUnit": "gramos",
+                            "alternativeQuantity": "",
+                            "alternativeUnit": ""
+                        },
+                        {
+                            "name": "Aguacate",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": "1/3",
+                            "alternativeUnit": "pieza"
+                        },
+                        {
+                            "name": "Calabaza",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 1,
+                            "alternativeUnit": "pieza"
+                        },
+                        {
+                            "name": "Lentejas",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": "1/2",
+                            "alternativeUnit": "taza"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "snack1": [
+        {
+            "menuName": "Snack de Manzana y Nueces",
+            "dishes": [
+                {
+                    "name": "Manzana con Nueces",
+                    "ingredients": [
+                        {
+                            "name": "Manzana",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 1,
+                            "alternativeUnit": "pieza"
+                        },
+                        {
+                            "name": "Nueces",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 6,
+                            "alternativeUnit": "piezas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "lunch": [
+        {
+            "menuName": "Tostadas de Pollo con Verdura",
+            "dishes": [
+                {
+                    "name": "Tostadas de Pollo con Verdura",
+                    "ingredients": [
+                        {
+                            "name": "Tostadas",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 4,
+                            "alternativeUnit": "piezas"
+                        },
+                        {
+                            "name": "Pollo",
+                            "metricQuantity": 120,
+                            "metricUnit": "gramos",
+                            "alternativeQuantity": "",
+                            "alternativeUnit": ""
+                        },
+                        {
+                            "name": "Verduras ralladas (Pepino, Zanahoria, Salsa)",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 2,
+                            "alternativeUnit": "tazas"
+                        },
+                        {
+                            "name": "Aguacate",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": "1/2",
+                            "alternativeUnit": "pieza"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "snack2": [
+        {
+            "menuName": "Snack de Duraznos y Almendras",
+            "dishes": [
+                {
+                    "name": "Duraznos con Almendras",
+                    "ingredients": [
+                        {
+                            "name": "Duraznos",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 2,
+                            "alternativeUnit": "piezas"
+                        },
+                        {
+                            "name": "Almendras",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 10,
+                            "alternativeUnit": "piezas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dinner": [
+        {
+            "menuName": "Tacos de Huevo con Espinacas",
+            "dishes": [
+                {
+                    "name": "Tacos de Huevo con Espinacas",
+                    "ingredients": [
+                        {
+                            "name": "Tortillas",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 2,
+                            "alternativeUnit": "piezas"
+                        },
+                        {
+                            "name": "Claras de huevo",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": 2,
+                            "alternativeUnit": "piezas"
+                        },
+                        {
+                            "name": "Espinacas",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": "1/2",
+                            "alternativeUnit": "taza"
+                        },
+                        {
+                            "name": "Aceite",
+                            "metricQuantity": "",
+                            "metricUnit": "",
+                            "alternativeQuantity": "1/2",
+                            "alternativeUnit": "cucharadita"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
